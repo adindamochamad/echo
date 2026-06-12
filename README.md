@@ -321,8 +321,6 @@ The demo shows this with real data: 62% semantic similarity, 238 days apart, 3 u
 
 <div align="center">
 
-Built for the Anthropic Hackathon 2025.
-
 **[Try the live demo →](https://echo-memory.vercel.app)**
 
 </div>
